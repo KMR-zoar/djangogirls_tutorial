@@ -1,0 +1,1 @@
+https://tutorial.djangogirls.org/ja/ のチュートリアルを進めるリポジトリです｡
